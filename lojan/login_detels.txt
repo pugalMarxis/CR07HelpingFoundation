@@ -1,9 +1,0 @@
-  
-   URL:        local host/ngo/
-
- Admin detels
-    user name:   Lojan
- 
-    password:    Lojan07
-   
-    
